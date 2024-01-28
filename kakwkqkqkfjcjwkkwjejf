@@ -1,1 +1,173 @@
-c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2TVE9PUAxOjEjVGVsZWdyYW0rJTNBKyU0MGZfdV9jX2tfb2ZfZgp2bGVzczovLzBjZmZiYjgwLTkwMGYtNGMzYy1iMjU2LWE5MDdkNWJlY2RhOEA0OS4xMy4xNjcuNzU6NDQzP21vZGU9Z3VuJnNlY3VyaXR5PXJlYWxpdHkmZW5jcnlwdGlvbj1ub25lJnBiaz1Bb19pSURpZlhIWmdVM2VjMEcxSjZ4QnNERlNBTS1uWEJBckdiQlhwd1dFJmZwPWZpcmVmb3gmdHlwZT1ncnBjJnNlcnZpY2VOYW1lPUBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5JnNuaT10LkFyVjJyYXkuc2hvcCZzaWQ9MTBmOGZiM2EjTVIrQkxBQ0srJUYwJTlGJTk3JTlEJUVGJUI4JThGK0FMTCtPUEVSQVRPUgp2bGVzczovL2I5YWQ4OTViLTEyYWMtNDBmYy1hNWFjLWE1YjJhMTI4NTAwMUAxMDQuMjEuMjguNjI6NDQzP3BhdGg9JTJGJTNGZWQlM0QyMDQ4JnNlY3VyaXR5PXRscyZlbmNyeXB0aW9uPW5vbmUmaG9zdD0zay5wdXJlYm95LmV1Lm9yZyZ0eXBlPXdzJnNuaT0zay5wdXJlYm95LmV1Lm9yZyNNUitCTEFDSyslRjAlOUYlOTclOUQlRUYlQjglOEYrQUxMK09QRVJBVE9SCnZsZXNzOi8vZTFhOTI4YmUtZTI4OS00YWVmLWI5MmUtNDEwNmZhYmRmNDJmQDE3My4yNDUuNTguMzE6ODA/cGF0aD0lMkYlM0ZlZCUzRDIwNDgmc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD1tYWhpLmtvc25hbmF0ZmlsdGVyY2hpLmV1Lm9yZyZ0eXBlPXdzI01SK0JMQUNLKyVGMCU5RiU5NyU5RCVFRiVCOCU4RitBTEwrT1BFUkFUT1IKdmxlc3M6Ly9lMWE5MjhiZS1lMjg5LTRhZWYtYjkyZS00MTA2ZmFiZGY0MmZAMTczLjI0NS41OC4zMTo4MD9wYXRoPSUyRiUzRmVkJTNEMjA0OCZzZWN1cml0eT1ub25lJmVuY3J5cHRpb249bm9uZSZob3N0PW1haGkua29zbmFuYXRmaWx0ZXJjaGkuZXUub3JnJnR5cGU9d3MjTVIrQkxBQ0srJUYwJTlGJTk3JTlEJUVGJUI4JThGK0FMTCtPUEVSQVRPUgp2bGVzczovLzQ4YmQ0ZDIyLWU0MmYtNDc0OS1hZjZhLTg1ZWNmNzE2YzgyM0AxNzIuNjcuNzMuMTYzOjQ0Mz9wYXRoPSUyRiUzRmVkJTNEMjA0OCZzZWN1cml0eT10bHMmZW5jcnlwdGlvbj1ub25lJmhvc3Q9ZmtoYW1uZWkua29zbmFuYXRmaWx0ZXJjaGkuZXUub3JnJnR5cGU9d3Mmc25pPWZraGFtbmVpLmtvc25hbmF0ZmlsdGVyY2hpLmV1Lm9yZyNNUitCTEFDSyslRjAlOUYlOTclOUQlRUYlQjglOEYrQUxMK09QRVJBVE9SCnZsZXNzOi8vZTFhOTI4YmUtZTI4OS00YWVmLWI5MmUtNDEwNmZhYmRmNDJmQDEwNC4yMS41OS4xMjU6ODA/cGF0aD0lMkYlM0ZlZCUzRDIwNDgmc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD1tYWhpLmtvc25hbmF0ZmlsdGVyY2hpLmV1Lm9yZyZ0eXBlPXdzI01SK0JMQUNLKyVGMCU5RiU5NyU5RCVFRiVCOCU4RitBTEwrT1BFUkFUT1IKdmxlc3M6Ly8tQXJWMnJheS0tQXJWMnJheS0tQXJWMnJheS1Ad3d3LnNwZWVkdGVzdC5uZXQ6ODA/cGF0aD0lMkYlNDBBclYycmF5JTJDJTQwQXJWMnJheSUyQyU0MEFyVjJyYXklM0ZlZCUzRDIwNDgmc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD1sLmwubC5sLmwubC4lRTUlODglOTclRTUlODglOTclRTclOTQlQjclRTQlQkElOEIlRTclOUElODQlRTQlQkElOEIlRTUlODglOTclRTQlQjglOEElRTglQjUlOUIlRTclOTQlQjc4MS50ZWNoJnR5cGU9d3MjTVIrQkxBQ0srJUYwJTlGJTk3JTlEJUVGJUI4JThGK0FMTCtPUEVSQVRPUgp2bGVzczovLzkzOTllMjJjLTRmMjUtNDI1OS1hMTQyLTczNjJhM2VmYWRiNkB3d3cuc3BlZWR0ZXN0Lm5ldDo0NDM/bW9kZT1ndW4mc2VjdXJpdHk9dGxzJmVuY3J5cHRpb249bm9uZSZhbHBuPWgyLGh0dHAvMS4xJmZwPWZpcmVmb3gmdHlwZT1ncnBjJnNlcnZpY2VOYW1lPUBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5LEBBclYycmF5JnNuaT13d3cuQXJWMnJheS5ob3N0I01SK0JMQUNLKyVGMCU5RiU5NyU5RCVFRiVCOCU4RitBTEwrT1BFUkFUT1I=
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "discord.com",
+            "port": 2083,
+            "users": [
+              {
+                "id": "oxidvip.tech",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "oxiDvip.teCH",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/oxidvip",
+          "headers": {
+            "Host": "oxiDvip.teCH"
+          }
+        },
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "mark": 255
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "fragment": {
+          "packets": "tlshello",
+          "length": "10-20",
+          "interval": "10-20"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "TcpNoDelay": true,
+          "tcpKeepAliveIdle": 100,
+          "mark": 255
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api",
+        "enabled": true
+      },
+      {
+        "id": "5465425548310166497",
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:ir",
+          "geosite:cn"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5425034033205580637",
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private",
+          "geoip:cn",
+          "geoip:ir"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5627785659655799759",
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "proxy",
+        "enabled": true
+      }
+    ]
+  }
+}
