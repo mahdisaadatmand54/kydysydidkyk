@@ -3,3 +3,4 @@ vless://94b665c3-112d-49bd-829d-4b5d826431ca@108.61.167.186:47931?security=none&
 vless://f81580f7-c2ae-4cbb-b056-47b17f0ce82a@185.92.221.169:31058?security=none&encryption=none&headerType=none&type=tcp#%40blackRay%20%E2%9D%A4%EF%B8%8F2
 vless://f81580f7-c2ae-4cbb-b056-47b17f0ce82a@185.92.221.169:31058?security=none&encryption=none&headerType=none&type=tcp#%40blackRay%20%E2%9D%A4%EF%B8%8F2
 vless://6f599e06-dc5d-4ba5-97be-a58078a06aa8@136.244.104.232:54711?security=none&encryption=none&headerType=none&type=tcp#%40blackRay%20%E2%9D%A4%EF%B8%8F4
+vless://94b665c3-112d-49bd-829d-4b5d826431ca@108.61.167.186:47931?type=tcp&security=none&encryption=none&headerType=none#blackRay
